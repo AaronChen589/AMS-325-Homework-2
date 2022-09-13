@@ -1,6 +1,6 @@
 
 
-% This Main creates plots two graph by utilizing the functions: NumberOfOccurences
+% This Main plots two graph by utilizing the functions: NumberOfOccurences
 %  and estimationOfPi. A for loop is runned from i = 10 to 19 that
 %  determines the number of occurences/ N-total, which then can be used to
 %  as an argument for estimationOfPi. Both values from the functions are
